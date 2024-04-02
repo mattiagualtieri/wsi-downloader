@@ -1,3 +1,5 @@
 manifest: manifest.txt
 output_dir: output
 command: gdc-client
+renaming_strategy: json
+json: mapping.json
